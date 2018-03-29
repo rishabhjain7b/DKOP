@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog
+vmux2to1
+!s110 1516805093
+!i10b 1
+!s100 ]hiQSi6d7bY8BJM_N_oY90
+I5OOaXBC[8k>JYL6Ha2Gi^3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dR:/intelFPGA/16.1/Verilog/mux2to1
+w1516805072
+8mux2to1.v
+Fmux2to1.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1516805093.000000
+!s107 mux2to1.v|
+!s90 -reportprogress|300|mux2to1.v|
+!i113 1
+Z3 tCvgOpt 0
+vmux2to1_tb
+!s110 1516806073
+!i10b 1
+!s100 o?R<Ln>bO=K<gMTN?<;ce3
+I:2KOMSR1bWZdNAkD5SC]W3
+R0
+R1
+w1516806067
+8mux2to1_tb.v
+Fmux2to1_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1516806073.000000
+!s107 mux2to1_tb.v|
+!s90 -reportprogress|300|mux2to1_tb.v|
+!i113 1
+R3

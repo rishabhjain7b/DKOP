@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/mux2to1
+vhalfadder
+!s110 1516806680
+!i10b 1
+!s100 [mg:]aWOC4^J^3fYD[nNB1
+IeCddkTdH;2zYJ4gCBo?;Z2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dR:/intelFPGA/16.1/Verilog/halfadder
+w1516806385
+8halfadder.v
+Fhalfadder.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1516806680.000000
+!s107 halfadder.v|
+!s90 -reportprogress|300|halfadder.v|
+!i113 1
+Z3 tCvgOpt 0
+vhalfadder_tb
+!s110 1516806692
+!i10b 1
+!s100 ZzoP?EkdRd81`_LM?SfVm2
+I3VSh_oX7@k8Scb84Gb[]g3
+R0
+R1
+w1516806671
+8halfadder_tb.v
+Fhalfadder_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1516806692.000000
+!s107 halfadder_tb.v|
+!s90 -reportprogress|300|halfadder_tb.v|
+!i113 1
+R3

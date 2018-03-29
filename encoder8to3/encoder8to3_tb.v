@@ -1,0 +1,21 @@
+// 8:3 encoder testbench
+
+module encoder8to3_tb;
+reg [7:0]i;
+reg en;
+wire [2:0]y;
+
+encoder8to3 dut (.*);
+
+integer k;
+initial
+begin
+	en=1'b1;
+	for(k=0;k<256;k=k+1)
+	#5 i=k;
+end
+
+initial 
+$monitor($time," Input en=%b, i=%b >>> Output y=%b ",en,i,y);
+
+endmodule

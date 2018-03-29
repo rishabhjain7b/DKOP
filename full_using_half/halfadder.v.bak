@@ -1,0 +1,6 @@
+// Function for Half Adder
+
+function integer sum,carry;
+	input a,b;
+	{sum,carry}={a^b,a|b};
+endfunction

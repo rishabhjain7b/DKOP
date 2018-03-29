@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/encoder8to3
+vbuffer
+Z0 !s110 1517292488
+!i10b 1
+!s100 KeM2U6gKdOUOkM;NH3HAP1
+I8z>kO;VJYEETdoF1SBD1O2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/buffer
+w1517292035
+8buffer.v
+Fbuffer.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1517292488.000000
+Z5 !s107 buffer_tb.v|buffer.v|
+Z6 !s90 -reportprogress|300|buffer.v|buffer_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vbuffer_tb
+R0
+!i10b 1
+!s100 <7T<=QX1KX5G7NecB<Hg;3
+InbofWO2Och8NSeVd[`i=b0
+R1
+R2
+w1517292471
+8buffer_tb.v
+Fbuffer_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7

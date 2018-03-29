@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/halfadder
+vhalfsubtractor
+Z0 !s110 1516807219
+!i10b 1
+!s100 ;;5L`LzTNP0^11<BZ3WzQ0
+IXI]JoV@b@m8k0J@nIz57Y1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/halfsubtractor
+w1516807039
+8halfsubtractor.v
+Fhalfsubtractor.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1516807219.000000
+Z5 !s107 halfsubtractor_tb.v|halfsubtractor.v|
+Z6 !s90 -reportprogress|300|halfsubtractor.v|halfsubtractor_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vhalfsubtractor_tb
+R0
+!i10b 1
+!s100 f?WZKV7W_c9_Ob^g0BzE?0
+I29T48P^e^[Dj<K4?MUVjS2
+R1
+R2
+w1516807200
+8halfsubtractor_tb.v
+Fhalfsubtractor_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7

@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/comparator_nbit
+vmux4to1
+Z0 !s110 1516860662
+!i10b 1
+!s100 b?9G03M;4VWO2BY;AIT_?2
+IE[k7:DlS6Z@EBI:`7n=C_3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/mux4to1
+w1516860093
+8mux4to1.v
+Fmux4to1.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1516860662.000000
+Z5 !s107 mux4to1_tb.v|mux4to1.v|
+Z6 !s90 -reportprogress|300|mux4to1.v|mux4to1_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vmux4to1_tb
+R0
+!i10b 1
+!s100 3PPQ4E=@MgUAAN26>4aHY0
+In=]XV88FP7zGjgo@UW[JN1
+R1
+R2
+w1516860650
+8mux4to1_tb.v
+Fmux4to1_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7

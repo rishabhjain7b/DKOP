@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/fullsubtractor
+vcomparator_nbit
+Z0 !s110 1516810689
+!i10b 1
+!s100 1>lbkj2Y6J?z8[?EN>aCk0
+IWK`<9iJd[2BS?F@4VX<OK2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/comparator_nbit
+w1516809645
+8comparator_nbit.v
+Fcomparator_nbit.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1516810689.000000
+Z5 !s107 comparator_nbit_tb.v|comparator_nbit.v|
+Z6 !s90 -reportprogress|300|comparator_nbit.v|comparator_nbit_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vcomparator_nbit_tb
+R0
+!i10b 1
+!s100 9m@:KMD5XDBjW@3V^o4f?3
+I[_BbN5]^GPS0Q4=MYdhWY1
+R1
+R2
+w1516810685
+8comparator_nbit_tb.v
+Fcomparator_nbit_tb.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7

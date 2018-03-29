@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/halfsubtractor
+vfulladder
+Z0 !s110 1516808398
+!i10b 1
+!s100 a78kC[k[oY[FVBnYE0nBE2
+Izd3fMWdz^h4TCgZN]NGK:3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/fulladder
+w1516807698
+8fulladder.v
+Ffulladder.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1516808398.000000
+Z5 !s107 fulladder_tb.v|fulladder.v|
+Z6 !s90 -reportprogress|300|fulladder.v|fulladder_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vfulladder_tb
+R0
+!i10b 1
+!s100 @@6bz4:9SanhPT0M]j0bF1
+Ic1z2Pd:El6eO2zRVzP10U1
+R1
+R2
+w1516808367
+8fulladder_tb.v
+Ffulladder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
