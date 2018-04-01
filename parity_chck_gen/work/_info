@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1
+vparity_chck_gen
+Z0 !s110 1522606804
+!i10b 1
+!s100 iH]lES^>a2i<h6@i?_6oj1
+IRSPBkVW_V[z7_oGA?0cHl1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog
+Z3 w1522606796
+Z4 8parity_chck_gen.v
+Z5 Fparity_chck_gen.v
+L0 6
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1522606804.000000
+Z8 !s107 parity_chck_gen.v|
+Z9 !s90 -reportprogress|300|parity_chck_gen.v|
+!i113 1
+Z10 tCvgOpt 0
+vparity_chck_gen_tb
+R0
+!i10b 1
+!s100 2[o]OCd14CdHH6jO<PS_?0
+IZ6R6:]7BMHm3]1Y19Kl3d2
+R1
+R2
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
