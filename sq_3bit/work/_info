@@ -9,13 +9,13 @@ z2
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/g2b
 vsq_3bit
-Z0 !s110 1522650689
+Z0 !s110 1522651941
 !i10b 1
-!s100 TK=d=G@Q^NP:@Ig4f_idW2
-ITM>n_ImFMjg:IKVLNd0K32
+!s100 <`l3IBDlz1e14:_hNQhU?2
+Id6ZlM>oQPmN>5Q_F39Iji0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dR:/intelFPGA/16.1/Verilog/sq_3bit
-Z3 w1522650685
+Z3 w1522651937
 Z4 8sq_3bit.v
 Z5 Fsq_3bit.v
 L0 3
@@ -23,7 +23,7 @@ Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1522650689.000000
+Z7 !s108 1522651941.000000
 Z8 !s107 sq_3bit.v|
 Z9 !s90 -reportprogress|300|sq_3bit.v|
 !i113 1
@@ -31,14 +31,14 @@ Z10 tCvgOpt 0
 vsq_3bit_tb
 R0
 !i10b 1
-!s100 jQ5J_Mlz`;^0l91IWfk?71
-I0F[TV]b06QNYY<_Bmf@]a0
+!s100 S@zz^]BzS3[:EgDTLDTR13
+IiMYZCfP^mj_Ye>7Xj5H9H0
 R1
 R2
 R3
 R4
 R5
-L0 16
+L0 25
 R6
 r1
 !s85 0

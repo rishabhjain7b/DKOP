@@ -23,9 +23,9 @@ initial
 begin
 	in=3'b101;
 	#5 $display("input=%d ::: output=%d",in,out);
-	#5 in=3'b111;
-	#5 $display("input=%d ::: output=%d",in,out);
 	#5 in=3'b110;
+	#5 $display("input=%d ::: output=%d",in,out);
+	#5 in=3'b111;
 	#5 $display("input=%d ::: output=%d",in,out);
 end
 endmodule
