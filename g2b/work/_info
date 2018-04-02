@@ -8,3 +8,43 @@ z2
 !i10f 100
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/b2g
+vg2b
+Z0 !s110 1522648052
+!i10b 1
+!s100 R0eFUFHJ>nGRYak93eXHB1
+I8gzW1gWNh@R?N`fhlKPi61
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/g2b
+Z3 w1522648003
+Z4 8g2b.v
+Z5 Fg2b.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1522648051.000000
+Z8 !s107 g2b.v|
+Z9 !s90 -reportprogress|300|g2b.v|
+!i113 1
+Z10 tCvgOpt 0
+vg2b_tb
+R0
+!i10b 1
+!s100 4g:6eNkj@@8<X]IAKgjc80
+IfFYP1J_EMSXCPb8n:D4^N3
+R1
+R2
+R3
+R4
+R5
+L0 14
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
