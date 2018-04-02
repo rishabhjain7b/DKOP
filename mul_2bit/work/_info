@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/sq_3bit
+vmul_2bit
+Z0 !s110 1522652931
+!i10b 1
+!s100 9<az=MDJQ:>D1CCO=3Bie1
+I?6TPH@L13cc^JG?li6=FZ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/mul_2bit
+Z3 w1522652922
+Z4 8mul_2bit.v
+Z5 Fmul_2bit.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1522652931.000000
+Z8 !s107 mul_2bit.v|
+Z9 !s90 -reportprogress|300|mul_2bit.v|
+!i113 1
+Z10 tCvgOpt 0
+vmul_2bit_tb
+R0
+!i10b 1
+!s100 ]0ZX@[jX[[GI9z=^]?o0g0
+IK3T[OIlIB0M94VPScm1nU0
+R1
+R2
+R3
+R4
+R5
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
