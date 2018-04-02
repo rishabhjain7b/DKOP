@@ -1,0 +1,6 @@
+# do file for decoder 4:10
+
+vlog decoder4to10.v
+vsim decoder4to10_tb
+add wave *
+run

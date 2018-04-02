@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/srlatch
+vdecoder3to8
+Z0 !s110 1522673448
+!i10b 1
+!s100 k>FOdYME418oAXm_JG2`81
+I8``2<ZJTQS_EIkTb]i>W?3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/decoder4to10
+w1516863718
+8decoder3to8.v
+Fdecoder3to8.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1522673448.000000
+Z5 !s107 decoder4to10.v|decoder3to8.v|
+Z6 !s90 -reportprogress|300|decoder3to8.v|decoder4to10.v|
+!i113 1
+Z7 tCvgOpt 0
+vdecoder4to10
+R0
+!i10b 1
+!s100 iBWNRGdBY`BiXc1AcLTn52
+IQCjjhgQ^hEm`76ASgPB;R3
+R1
+R2
+Z8 w1522673445
+Z9 8decoder4to10.v
+Z10 Fdecoder4to10.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vdecoder4to10_tb
+R0
+!i10b 1
+!s100 ndDi0^:l89F=N_gnP6cJT3
+IgiAbSf0chS7QVj6eDdEcf1
+R1
+R2
+R8
+R9
+R10
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
