@@ -8,37 +8,37 @@ z2
 !i10f 100
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/mul_2bit
-vsrlatch
-Z0 !s110 1522656304
+vdlatch
+Z0 !s110 1522657819
 !i10b 1
-!s100 oCFl9[nkhZ268M4<Wd14b2
-IkF>AA30MN;i@<idX6WU?I0
+!s100 bl9U^:=A;[<BFni=W<hz42
+IV[JOR2hz]gL^_?1]hj_RJ3
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dR:/intelFPGA/16.1/Verilog/srlatch
-Z3 w1522656293
-Z4 8srlatch.v
-Z5 Fsrlatch.v
+Z3 w1522657816
+Z4 8dlatch.v
+Z5 Fdlatch.v
 L0 3
 Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1522656304.000000
-Z8 !s107 srlatch.v|
-Z9 !s90 -reportprogress|300|srlatch.v|
+Z7 !s108 1522657819.000000
+Z8 !s107 dlatch.v|
+Z9 !s90 -reportprogress|300|dlatch.v|
 !i113 1
 Z10 tCvgOpt 0
-vsrlatch_tb
+vdlatch_tb
 R0
 !i10b 1
-!s100 g`BIeSJ=:F3JH<@OZzi5h0
-I3IMfm6ZN4Mi6HFeERJ[2N1
+!s100 gzAY?WHFk_6QYJg186Az_1
+I0gZH>_hfU;0iN=M3D=8d81
 R1
 R2
 R3
 R4
 R5
-L0 17
+L0 11
 R6
 r1
 !s85 0
@@ -46,5 +46,45 @@ r1
 R7
 R8
 R9
+!i113 1
+R10
+vsrlatch
+Z11 !s110 1522656304
+!i10b 1
+!s100 oCFl9[nkhZ268M4<Wd14b2
+IkF>AA30MN;i@<idX6WU?I0
+R1
+R2
+Z12 w1522656293
+Z13 8srlatch.v
+Z14 Fsrlatch.v
+L0 3
+R6
+r1
+!s85 0
+31
+Z15 !s108 1522656304.000000
+Z16 !s107 srlatch.v|
+Z17 !s90 -reportprogress|300|srlatch.v|
+!i113 1
+R10
+vsrlatch_tb
+R11
+!i10b 1
+!s100 g`BIeSJ=:F3JH<@OZzi5h0
+I3IMfm6ZN4Mi6HFeERJ[2N1
+R1
+R2
+R12
+R13
+R14
+L0 17
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
 !i113 1
 R10
