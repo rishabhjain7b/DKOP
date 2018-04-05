@@ -8,3 +8,23 @@ z2
 !i10f 100
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/test_real
+vdecoder_nbit
+!s110 1522928273
+!i10b 1
+!s100 <36UHUGBG7?>PWJZT[6;E0
+I]54ET9XkmZRF<aFf>FTID1
+VDg1SIo80bB@j0V0VzS_@n1
+dR:/intelFPGA/16.1/Verilog/decoder_nbit
+w1522928261
+8decoder_nbit.v
+Fdecoder_nbit.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1522928272.000000
+!s107 decoder_nbit.v|
+!s90 -reportprogress|300|decoder_nbit.v|
+!i113 1
+tCvgOpt 0
