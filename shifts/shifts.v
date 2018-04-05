@@ -1,7 +1,7 @@
 // Code for performing all the shifts
 
 module shifts;
-reg [7:0]a;
+reg signed [7:0]a;
 
 initial
 begin
