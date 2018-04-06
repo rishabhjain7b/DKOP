@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/shifts
+vmux_nbit
+!s110 1523012478
+!i10b 1
+!s100 1:o_TR7zOSUn353agE^j92
+InbJX2<L[_67ImEnCQE=5;2
+VDg1SIo80bB@j0V0VzS_@n1
+dR:/intelFPGA/16.1/Verilog/mux_nbit
+w1523012473
+8mux_nbit.v
+Fmux_nbit.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1523012477.000000
+!s107 mux_nbit.v|
+!s90 -reportprogress|300|mux_nbit.v|
+!i113 1
+tCvgOpt 0
