@@ -9,13 +9,13 @@ z2
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/mux_nbit
 vbooth_multiplier
-Z0 !s110 1523023973
+Z0 !s110 1523193574
 !i10b 1
-!s100 Qng_ZW4nX0jUcYcDh4^oW1
-I5Ec]o[BX`0BScn`N6O6HM0
+!s100 3iHgXD4m[Ec3o1SO8b3Q=1
+IPo4Y5PPc2icGN3JBMdFKg1
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dR:/intelFPGA/16.1/Verilog/booth_multiplier
-w1523023969
+w1523193570
 8booth_multiplier.v
 Fbooth_multiplier.v
 L0 9
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1523023973.000000
+Z4 !s108 1523193574.000000
 Z5 !s107 booth_multiplier_tb.v|booth_multiplier.v|
 Z6 !s90 -reportprogress|300|booth_multiplier.v|booth_multiplier_tb.v|
 !i113 1
@@ -31,11 +31,11 @@ Z7 tCvgOpt 0
 vbooth_multiplier_tb
 R0
 !i10b 1
-!s100 U>=ZPj=[?OWZC[JDY8CYP2
-I:CkZkcAQ94e=4AKF@`2i51
+!s100 4XEmdfK97=<PE0_Kj_iS_3
+IP6MLG6Y?PAMC7ll7O1QXW0
 R1
 R2
-w1523023863
+w1523193436
 8booth_multiplier_tb.v
 Fbooth_multiplier_tb.v
 L0 3
