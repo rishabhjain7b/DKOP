@@ -32,8 +32,8 @@ module booth_multiplier #(parameter x=4, y=4)
 		endcase
 		P={P[x+y+1],P[x+y+1:1]};
 	end
-	P=(~P);
-	P_final=P[x+y:1];
+	P=P[x+y:1];
+	P_final=((m[x-1]==1'b0 && r[y-1]==0)||(m[x-1]==1'b1 && r[y-1]==1))?P:-P;
  end
 /*
  always@(P)

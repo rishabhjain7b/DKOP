@@ -27,9 +27,12 @@ begin
  
 	m=-5;
 	r=-8;
-	#60; 
+	#60;
+
+	m=3;
+	r=-4; 
 end
 
 initial
-	$monitor($time,"m=%d  r=%d ::: Product=%d",m,r,P_final);
+	$monitor($time,"m=%d  r=%d ::: Product=%d ==== %b",m,r,P_final,P_final);
 endmodule
