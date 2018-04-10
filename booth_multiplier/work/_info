@@ -9,7 +9,7 @@ z2
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/mux_nbit
 vbooth_multiplier
-Z0 !s110 1523208153
+Z0 !s110 1523296915
 !i10b 1
 !s100 5MXlR^oanOgKz3X4GbgoJ0
 IkHQ^L@U>4;41EzD:bK>@N0
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1523208153.000000
+Z4 !s108 1523296914.000000
 Z5 !s107 booth_multiplier_tb.v|booth_multiplier.v|
 Z6 !s90 -reportprogress|300|booth_multiplier.v|booth_multiplier_tb.v|
 !i113 1
