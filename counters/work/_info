@@ -13,13 +13,13 @@ vcount_odd_even
 !i10b 1
 !s100 KOD_j5H?5h:F?YozDCk>73
 I15<ZOD@9nd396Z]HS1=S;3
-VDg1SIo80bB@j0V0VzS_@n1
-dR:/intelFPGA/16.1/Verilog/counters
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dR:/intelFPGA/16.1/Verilog/counters
 w1523383207
 8count_odd_even.v
 Fcount_odd_even.v
 L0 3
-OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
@@ -27,4 +27,24 @@ r1
 !s107 count_odd_even.v|
 !s90 -reportprogress|300|count_odd_even.v|
 !i113 1
-tCvgOpt 0
+Z3 tCvgOpt 0
+vseq_counter
+!s110 1523389897
+!i10b 1
+!s100 a1I@]Y:o9=VJ4?J[DY_JF2
+I>]J77lPl^F[O:oW?cmVFU3
+R0
+R1
+w1523389893
+8seq_counter.v
+Fseq_counter.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1523389896.000000
+!s107 seq_counter.v|
+!s90 -reportprogress|300|seq_counter.v|
+!i113 1
+R3
