@@ -9,42 +9,102 @@ z2
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/booth_multiplier
 vcount_odd_even
-!s110 1523383212
+Z0 !s110 1523470334
 !i10b 1
 !s100 KOD_j5H?5h:F?YozDCk>73
 I15<ZOD@9nd396Z]HS1=S;3
-Z0 VDg1SIo80bB@j0V0VzS_@n1
-Z1 dR:/intelFPGA/16.1/Verilog/counters
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dR:/intelFPGA/16.1/Verilog/counters
 w1523383207
 8count_odd_even.v
 Fcount_odd_even.v
 L0 3
-Z2 OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1523383212.000000
-!s107 count_odd_even.v|
-!s90 -reportprogress|300|count_odd_even.v|
+Z4 !s108 1523470334.000000
+Z5 !s107 syn_seq_counter.v|seq_counter.v|ring_counter.v|dff.v|count_odd_even.v|
+Z6 !s90 -reportprogress|300|count_odd_even.v|dff.v|ring_counter.v|seq_counter.v|syn_seq_counter.v|
 !i113 1
-Z3 tCvgOpt 0
-vseq_counter
-!s110 1523389897
-!i10b 1
-!s100 a1I@]Y:o9=VJ4?J[DY_JF2
-I>]J77lPl^F[O:oW?cmVFU3
+Z7 tCvgOpt 0
+vdff
 R0
+!i10b 1
+!s100 DjU[E9zIAQEG3OioQNVN:0
+I^6SRDIEPW^PiTX@GO71FM0
 R1
-w1523389893
+R2
+w1523467747
+8dff.v
+Fdff.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vring_counter
+R0
+!i10b 1
+!s100 ifPN[^8E;X5?KVQ>e>`922
+IDKmN4;PE>:4I_lmOm:Ymc2
+R1
+R2
+w1523470326
+8ring_counter.v
+Fring_counter.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vseq_counter
+R0
+!i10b 1
+!s100 2P4UbJZQaC7=>d29I?ZQO2
+IiczN>0noLmTI8f?^GI6Oi1
+R1
+R2
+w1523390916
 8seq_counter.v
 Fseq_counter.v
 L0 3
-R2
+R3
 r1
 !s85 0
 31
-!s108 1523389896.000000
-!s107 seq_counter.v|
-!s90 -reportprogress|300|seq_counter.v|
+R4
+R5
+R6
 !i113 1
+R7
+vsyn_seq_counter
+R0
+!i10b 1
+!s100 XJ5Jf6L5<VC:>^gJMmz`H0
+IGcIE`o_^ZmjdKGEc^;<EX2
+R1
+R2
+w1523468402
+8syn_seq_counter.v
+Fsyn_seq_counter.v
+L0 3
 R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
