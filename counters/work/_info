@@ -9,7 +9,7 @@ z2
 cModel Technology
 dR:/intelFPGA/16.1/Verilog/booth_multiplier
 vcount_odd_even
-Z0 !s110 1523470334
+Z0 !s110 1523472694
 !i10b 1
 !s100 KOD_j5H?5h:F?YozDCk>73
 I15<ZOD@9nd396Z]HS1=S;3
@@ -23,9 +23,9 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1523470334.000000
-Z5 !s107 syn_seq_counter.v|seq_counter.v|ring_counter.v|dff.v|count_odd_even.v|
-Z6 !s90 -reportprogress|300|count_odd_even.v|dff.v|ring_counter.v|seq_counter.v|syn_seq_counter.v|
+Z4 !s108 1523472693.000000
+Z5 !s107 twisted_ring_counter.v|syn_seq_counter.v|seq_counter.v|ring_counter_self_starting.v|ring_counter.v|dff.v|count_odd_even.v|
+Z6 !s90 -reportprogress|300|count_odd_even.v|dff.v|ring_counter.v|ring_counter_self_starting.v|seq_counter.v|syn_seq_counter.v|twisted_ring_counter.v|
 !i113 1
 Z7 tCvgOpt 0
 vdff
@@ -68,6 +68,26 @@ R5
 R6
 !i113 1
 R7
+vring_counter_self_starting
+R0
+!i10b 1
+!s100 Q4=S]h2JHC@G^J3G:cOXN2
+IlRh3:k4L3;N_`UO6Gd2GJ3
+R1
+R2
+w1523472043
+8ring_counter_self_starting.v
+Fring_counter_self_starting.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
 vseq_counter
 R0
 !i10b 1
@@ -98,6 +118,26 @@ R2
 w1523468402
 8syn_seq_counter.v
 Fsyn_seq_counter.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtwisted_ring_counter
+R0
+!i10b 1
+!s100 fn?>:K=2N0dGLOz4CRh_k2
+IK=74D0YDYZL0?VTbkc_C20
+R1
+R2
+w1523472687
+8twisted_ring_counter.v
+Ftwisted_ring_counter.v
 L0 3
 R3
 r1
