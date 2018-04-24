@@ -14,7 +14,7 @@ module fork_join_none;
             #10 $display("@%0d: sequential after #10", $time);
           end
       join_none
-      $display("@%0d: after join", $time);
+      //$display("@%0d: after join", $time);
       //#80 $display("@%0d: final after #80", $time);
     end
 endmodule

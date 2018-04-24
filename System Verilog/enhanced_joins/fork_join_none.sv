@@ -1,4 +1,4 @@
-// Code for practicing fork and join
+// Code for practicing fork and join_none
 
 module fork_join_none;
   initial

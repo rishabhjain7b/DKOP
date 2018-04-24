@@ -1,6 +1,6 @@
-// Code for practicing fork and join_any
+// Code for practicing fork and join using wait fork
 
-module fork_join_any;
+module wait_fork;
   initial
     begin
       $display("@%0d: starts fork...join example", $time);
@@ -13,10 +13,15 @@ module fork_join_any;
             #30 $display("@%0d: sequential after #30", $time);
             #10 $display("@%0d: sequential after #10", $time);
           end
-      join_any
+      //join
+      //join_any
+      join_none
+      wait fork;
       $display("@%0d: after join", $time);
       #80 $display("@%0d: final after #80", $time);
     end
 endmodule
+
+
 
 
