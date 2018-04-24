@@ -1,0 +1,6 @@
+// Code for practicing fork and join
+
+module fork_join;
+  initial
+    begin
+      $display("@

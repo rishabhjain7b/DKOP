@@ -1,0 +1,395 @@
+# //  Questa Sim-64
+# //  Version 10.6a linux_x86_64 Mar 16 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+vsim -novopt bmul
+# vsim -novopt bmul 
+# Start time: 02:57:16 on Jun 29,2017
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading work.bmul
+add wave *
+force rst 0
+force clk 0
+run
+force clk 1
+run
+force rst 1
+force clk 0
+run
+force control 0
+force clk 1
+run
+force mu 0110
+force mr 0101
+force clk 0
+run
+force clk 1
+run
+force mu 4'b0110
+force mr 4'b0101
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force control 1
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0 
+run
+force clk 1
+run
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 03:15:41 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# 
+# Top level modules:
+# 	bmul
+# End time: 03:15:41 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:18:34 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: (vlog-13069) /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(39): near "if": syntax error, unexpected if, expecting ';'.
+# End time: 04:18:34 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:18:35 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: (vlog-13069) /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(39): near "if": syntax error, unexpected if, expecting ';'.
+# End time: 04:18:35 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:18:39 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: (vlog-13069) /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(39): near "if": syntax error, unexpected if, expecting ';'.
+# End time: 04:18:40 on Jun 29,2017, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:18:55 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# 
+# Top level modules:
+# 	bmul
+# End time: 04:18:55 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -novopt bmul
+# End time: 04:19:12 on Jun 29,2017, Elapsed time: 1:21:56
+# Errors: 3, Warnings: 1
+# vsim -novopt bmul 
+# Start time: 04:19:12 on Jun 29,2017
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/work.bmul
+# Loading work.bmul
+add wave *
+force rst 0
+force clk 1
+force clk 0
+run
+force clk 1
+run
+force rst 1
+froce clk 0
+# invalid command name "froce"
+force clk 0
+run
+force control 0
+force clk 1
+run
+force clk 0
+force mu 4'b0101
+force mr 4'b0110
+run
+force clk 1
+run
+force control 1
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 0
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+force mu 1000
+force mr 0011
+force control 0
+run
+force mr 4'b0011
+force mu 4'b1000
+force clk 1
+run
+force control 1
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:43:49 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# 
+# Top level modules:
+# 	bmul
+# End time: 04:43:49 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -novopt bmul
+# End time: 04:44:42 on Jun 29,2017, Elapsed time: 0:25:30
+# Errors: 1, Warnings: 1
+# vsim -novopt bmul 
+# Start time: 04:44:42 on Jun 29,2017
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/work.bmul
+# Loading work.bmul
+add wave *
+force clk 0
+force control 0
+force mu 4'b1000
+force mr 4'b0011
+force rst 0
+run
+force clk 1
+run
+force control 1
+force clk 0
+run
+force clk 1
+run
+force rst 1
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force rst 0
+force clk 1
+run
+force rst 1
+force clk 0
+run
+force clk 1
+run
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:51:26 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(23): (vlog-2110) Illegal reference to net "control".
+# End time: 04:51:26 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:51:26 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(23): (vlog-2110) Illegal reference to net "control".
+# End time: 04:51:26 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:51:29 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(23): (vlog-2110) Illegal reference to net "control".
+# End time: 04:51:29 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 04:51:29 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# ** Error: /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v(23): (vlog-2110) Illegal reference to net "control".
+# End time: 04:51:30 on Jun 29,2017, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 05:42:29 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# 
+# Top level modules:
+# 	bmul
+# End time: 05:42:29 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -novopt bmul
+# End time: 05:42:39 on Jun 29,2017, Elapsed time: 0:57:57
+# Errors: 4, Warnings: 1
+# vsim -novopt bmul 
+# Start time: 05:42:39 on Jun 29,2017
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/work.bmul
+# Loading work.bmul
+add wave *
+force clk 0
+force rst 0
+run
+force clk 1
+run'
+# invalid command name "run'"
+run
+force rst 1
+force clk 0
+run
+force control 0
+force clk 1
+force mul 4'b1000
+# ** Error (suppressible): (vsim-4008) Object 'mul' not found.
+# 
+force mu 4'b1000
+force mr 4'b0011
+force clk 1
+run
+force clk 0
+force control 1
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v
+# QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+# Start time: 05:52:39 on Jun 29,2017
+# vlog -reportprogress 300 -work work /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/bmul.v 
+# -- Compiling module bmul
+# 
+# Top level modules:
+# 	bmul
+# End time: 05:52:39 on Jun 29,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -novopt bmul
+# End time: 05:53:04 on Jun 29,2017, Elapsed time: 0:10:25
+# Errors: 2, Warnings: 1
+# vsim -novopt bmul 
+# Start time: 05:53:04 on Jun 29,2017
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing /home/student/Desktop/Verilog/Assignment/Booth_Multiplier/work.bmul
+# Loading work.bmul
+add wave *
+force clk 0
+force rst 0
+run
+force clk 1
+run
+force rst 1
+force clk 0
+run
+force control 0
+force clk 1
+run
+force mu 4'b1000
+force clk 0
+run
+force mr 4'b0011
+force clk 1
+run
+force control 1
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+force clk 0
+run
+force clk 1
+run
+# Causality operation skipped due to absence of debug database file
+# End time: 05:56:50 on Jun 29,2017, Elapsed time: 0:03:46
+# Errors: 0, Warnings: 2

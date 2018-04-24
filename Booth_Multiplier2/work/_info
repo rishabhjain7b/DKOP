@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/student/Desktop/Verilog/Assignment/Booth_Multiplier
+T_opt
+!s110 1498727294
+V7P6C@aSM4;Gof@bBz;5_T3
+04 4 4 work bmul fast 0
+=1-000c2947149a-5954c37d-e9b1f-d3c
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6a;65
+R0
+vbmul
+!s110 1524334416
+!i10b 1
+!s100 JVKjE0>YgbVYXY:1d_cMC0
+I1nNUk4j:U8Z]4mb52UZ@<1
+VDg1SIo80bB@j0V0VzS_@n1
+dR:/intelFPGA/16.1/Verilog/Booth_Multiplier2
+w1498695754
+8bmul.v
+Fbmul.v
+L0 4
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1524334415.000000
+!s107 bmul.v|
+!s90 -reportprogress|300|bmul.v|
+!i113 1
+R1

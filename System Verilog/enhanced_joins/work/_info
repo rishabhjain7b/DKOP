@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:/questasim64_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vfork_join
+Z0 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IodHC9:<[=gNoUl_53UV3`1
+S1
+Z2 dR:/intelFPGA/16.1/Verilog/System Verilog/enhanced_joins
+w1524592836
+8fork_join.sv
+Ffork_join.sv
+L0 3
+Z3 OL;L;10.2c;57
+Z4 o-sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 ZBi8V6]9`kC`C:Uj4l?7B3
+!s105 fork_join_sv_unit
+!s108 1524592854.237000
+!s107 fork_join.sv|
+!s90 -reportprogress|300|-sv|fork_join.sv|
+!s85 0
+!i10b 1
+!i111 0
+vfork_join_any
+Z5 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+R1
+r1
+31
+IB=VCJ[;Oe:MD8?G<bh10Y1
+S1
+R2
+w1524593018
+8fork_join_any.sv
+Ffork_join_any.sv
+L0 3
+R3
+R4
+!s100 8^AeK_dE@GEhBfSA5kWZ_3
+!s105 fork_join_any_sv_unit
+!s108 1524593034.664000
+!s107 fork_join_any.sv|
+!s90 -reportprogress|300|-sv|fork_join_any.sv|
+!s85 0
+!i10b 1
+!i111 0
+vfork_join_none
+R5
+R1
+r1
+!s85 0
+31
+IbL<=nZ4f5EHlAo9@FB60R0
+!s105 fork_join_none_sv_unit
+S1
+R2
+w1524593868
+8fork_join_none.sv
+Ffork_join_none.sv
+L0 3
+R3
+!s90 -reportprogress|300|-sv|fork_join_none.sv|
+R4
+!i10b 1
+!s100 PAC`2`if7ogF^3[26nDjC0
+!s108 1524593872.854000
+!s107 fork_join_none.sv|
+!i111 0
