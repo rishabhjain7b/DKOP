@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/System Verilog/enhanced_joins
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vsigns
+DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IBNL6TAYd]DGkoPBZQ:]@z3
+!s105 signs_sv_unit
+S1
+dR:/intelFPGA/16.1/Verilog/System Verilog/signs
+w1524650521
+8signs.sv
+Fsigns.sv
+L0 7
+Z0 OL;L;10.2c;57
+!s90 -reportprogress|300|-sv|signs.sv|
+o-sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 l<^gI^RBfC7Rc=[LMQS^O0
+!s108 1524650524.227000
+!s107 signs.sv|
+!i111 0
