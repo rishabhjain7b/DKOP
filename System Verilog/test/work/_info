@@ -3,39 +3,93 @@ K4
 z2
 13
 cModel Technology
-dR:/intelFPGA/16.1/Verilog/System Verilog/signs
+Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
 !s112 0.1
 !i10d 8192
 !i10e 25
 !i10f 100
 T_opt
-!s110 1525026589
-V^Cg5dVnl?<7A=FCP0DgMX3
+VN6?2l?K^mj>kielV>2MCH0
 04 4 4 work test fast 0
-=1-1458d0113dbf-5ae60f1a-36f-21b0
-o-quiet -auto_acc_if_foreign -work work
+=1-1458d0113dbf-5ae61083-31d-1594
+Z1 o-quiet -auto_acc_if_foreign -work work
 n@_opt
-OL;O;10.2c;57
+Z2 OL;O;10.2c;57
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
+!s110 1525026948
+T_opt1
+!s110 1525032700
+VW`HL^H97IIR564zUe0mX71
+04 9 4 work testclass fast 0
+=1-1458d0113dbf-5ae626fb-2f8-bc8
+R1
+n@_opt1
+R2
 vtest
-DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-IgAKnA3Ra^Nk9569]cCImJ2
-V`JN@9S9cnhjKRR_L]QIcM3
+Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+I4UEeZUd3^okY8C6LE<Qi63
+Z5 V`JN@9S9cnhjKRR_L]QIcM3
 S1
-dR:/intelFPGA/16.1/Verilog/System Verilog/test
-w1525026563
+Z6 dR:/intelFPGA/16.1/Verilog/System Verilog/test
+w1525026937
 8test.sv
 Ftest.sv
 L0 3
-OL;L;10.2c;57
+Z7 OL;L;10.2c;57
 r1
 31
-o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!s110 1525026571
-!i10b 1
-!s100 _Mz[iFlfdN5=>4fbiPhfS0
+Z8 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !s105 test_sv_unit
-!s85 0
-!s108 1525026571.113000
-!s107 test.sv|
 !s90 -reportprogress|300|test.sv|
+!s110 1525026940
+!s100 ]XO=jB>7?zIzlDUV9m5na1
+!s108 1525026940.500000
+!s107 test.sv|
+!i10b 1
+!s85 0
+!i111 0
+vtestclass
+R4
+DXx4 work 17 testclass_sv_unit 0 22 ?GECD9`]>hh07KSPn2AzE3
+R5
+r1
+31
+I70DHBIJSmRcP8P>V2XD0;2
+S1
+R6
+Z9 w1525032691
+Z10 8testclass.sv
+Z11 Ftestclass.sv
+L0 16
+R7
+Z12 !s108 1525032693.854000
+Z13 !s107 testclass.sv|
+Z14 !s90 -reportprogress|300|testclass.sv|
+R8
+!s105 testclass_sv_unit
+!s85 0
+!i10b 1
+!s100 46O^6zZF5Fg[[?^V4F4ke1
+!i111 0
+Xtestclass_sv_unit
+R4
+V?GECD9`]>hh07KSPn2AzE3
+r1
+31
+I?GECD9`]>hh07KSPn2AzE3
+S1
+R6
+R9
+R10
+R11
+L0 3
+R7
+R12
+R13
+R14
+R8
+!s85 0
+!i10b 1
+!s100 ?V7ble]OB@9T>kc=;mO5Z0
+!i103 1
 !i111 0

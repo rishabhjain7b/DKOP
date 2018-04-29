@@ -2,7 +2,8 @@
 
 module test #(parameter size=10);
   logic [size-1:0]a,b,c,d,e;
-  
+  logic f;
+  reg g;
   initial
   begin
     a='b0;
@@ -10,6 +11,8 @@ module test #(parameter size=10);
     c='bz;
     d='b1;
     e='1;
+    $display($size(f));
+    $display($size(g));
   end
   
   initial 
