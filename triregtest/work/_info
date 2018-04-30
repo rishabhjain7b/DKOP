@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/System Verilog/test
+vints
+!s110 1525093522
+!i10b 1
+!s100 C_MdW?gB7KzEb>QXGYL7<0
+INoN=F@GF[^ER5@0h3X01;3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dR:/intelFPGA/16.1/Verilog/triregtest
+w1525093488
+8ints.v
+Fints.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1525093521.000000
+!s107 ints.v|
+!s90 -reportprogress|300|ints.v|
+!i113 1
+Z3 tCvgOpt 0
+vmultidri
+!s110 1525085187
+!i10b 1
+!s100 jRkIiMM?A;Y6HW@o5n;>92
+IVRLXnTY:A4f9OZZ?HNFQO1
+R0
+R1
+w1525085182
+8multidri.v
+Fmultidri.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1525085187.000000
+!s107 multidri.v|
+!s90 -reportprogress|300|multidri.v|
+!i113 1
+R3
+vtesttime
+!s110 1525086211
+!i10b 1
+!s100 ?[^?XbjzK_8RLnS^LVd3H0
+I`]ofIRHQH14EJ1d`zQXkB2
+R0
+R1
+w1525086206
+8testtime.v
+Ftesttime.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1525086211.000000
+!s107 testtime.v|
+!s90 -reportprogress|300|testtime.v|
+!i113 1
+R3
+vtriregtest
+!s110 1525082286
+!i10b 1
+!s100 l?B?mW`CdU82Ai^^R=ig_2
+IHBoK2DF1C73Le]Y^fmb;W3
+R0
+R1
+w1525082284
+8triregtest.v
+Ftriregtest.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1525082286.000000
+!s107 triregtest.v|
+!s90 -reportprogress|300|triregtest.v|
+!i113 1
+R3
