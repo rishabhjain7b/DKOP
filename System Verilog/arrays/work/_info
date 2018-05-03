@@ -18,12 +18,21 @@ Z2 OL;O;10.2c;57
 Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/test
 !s110 1525362020
 T_opt1
-!s110 1525363280
 VlknKKM]D=<[b=TIWj;?jn1
 04 11 4 work array_assoc fast 0
 =4-1458d0113dbf-5aeb3250-17b-5a4
 R1
 n@_opt1
+R2
+R3
+!s110 1525363280
+T_opt2
+!s110 1525363671
+Vk`iY;;i[?YPo6k0HHg@o@3
+04 13 4 work array_methods fast 0
+=1-1458d0113dbf-5aeb33d6-2f1-1b54
+R1
+n@_opt2
 R2
 varray_assoc
 Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
@@ -42,11 +51,11 @@ o-sv
 !s105 array_assoc_sv_unit
 !s90 -reportprogress|300|-sv|array_assoc.sv|
 !s110 1525363277
-!i10b 1
 !s100 YfbU3Rnfi2B35AS<PWIoO0
-!s85 0
 !s108 1525363277.285000
 !s107 array_assoc.sv|
+!i10b 1
+!s85 0
 !i111 0
 varray_dyn
 Z8 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
@@ -71,6 +80,29 @@ Z11 tCvgOpt 0
 !i10b 1
 !s85 0
 !i113 1
+varray_methods
+R4
+IPVf2A@gIANS5UB`6PBfLF2
+R5
+S1
+R6
+w1525363642
+8array_methods.sv
+Farray_methods.sv
+L0 3
+R7
+r1
+31
+o-sv
+!s110 1525363659
+!i10b 1
+!s100 mDAdHI2d0FIGJ@i[?6dW:0
+!s105 array_methods_sv_unit
+!s85 0
+!s108 1525363658.972000
+!s107 array_methods.sv|
+!s90 -reportprogress|300|-sv|array_methods.sv|
+!i111 0
 varray_que
 R4
 Ie@Qde3Y^O0LOKjgEUWFH=2
