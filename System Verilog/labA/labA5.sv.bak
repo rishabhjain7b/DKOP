@@ -10,6 +10,6 @@ module labA5;
     $display(str);
     str.putc(str.len()-1,"b");
     $display(str);
-    $display(str.substr(2,5));
+    $display(str.substr(1,4));
   end
 endmodule
