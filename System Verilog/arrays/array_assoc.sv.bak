@@ -26,6 +26,5 @@ begin
         $display(assoc.num());
         assoc.delete(i);
         $display(assoc.size());
-        $display(assoc);
 end
 endmodule
