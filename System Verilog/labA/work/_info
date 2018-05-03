@@ -3,40 +3,106 @@ K4
 z2
 13
 cModel Technology
-dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
+Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
 !s112 0.1
 !i10d 8192
 !i10e 25
 !i10f 100
 T_opt
-!s110 1525369344
 VZ`>Qm_le99n0BI4?hC^?c1
 04 5 4 work labA1 fast 0
 =1-1458d0113dbf-5aeb4a00-191-3ef0
-o-quiet -auto_acc_if_foreign -work work
+Z1 o-quiet -auto_acc_if_foreign -work work
 n@_opt
-OL;O;10.2c;57
+Z2 OL;O;10.2c;57
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
+!s110 1525369344
+T_opt1
+VcLZifBSW7fFE4W@2zzk_R0
+04 5 4 work labA2 fast 0
+=1-1458d0113dbf-5aeb4dc0-1c0-3e50
+R1
+n@_opt1
+R2
+R3
+!s110 1525370304
+T_opt2
+!s110 1525371032
+VkFnSFoSNz`he^P7;9KNm92
+04 5 4 work labA3 fast 0
+=1-1458d0113dbf-5aeb5097-205-31c8
+R1
+n@_opt2
+R2
 vlabA1
-DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
 IgNJf@gK7=UWH[B:W2^iJ_3
-V`JN@9S9cnhjKRR_L]QIcM3
+Z5 V`JN@9S9cnhjKRR_L]QIcM3
 S1
-dR:/intelFPGA/16.1/Verilog/System Verilog/labA
+Z6 dR:/intelFPGA/16.1/Verilog/System Verilog/labA
 w1525369328
 8labA1.sv
 FlabA1.sv
 L0 3
-OL;L;10.2c;57
+Z7 OL;L;10.2c;57
 r1
 31
-o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z8 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 nlab@a1
 !s110 1525369336
-!i10b 1
 !s100 M63WUX@oPDSSn4ZIC7G^;1
 !s105 labA1_sv_unit
-!s85 0
 !s108 1525369336.776000
 !s107 labA1.sv|
 !s90 -reportprogress|300|labA1.sv|
+!i10b 1
+!s85 0
+!i111 0
+vlabA2
+R4
+IJEV<k[IO3MW6<99SDVQBI0
+R5
+S1
+R6
+w1525370263
+8labA2.sv
+FlabA2.sv
+L0 3
+R7
+r1
+31
+R8
+nlab@a2
+!s110 1525370277
+!s100 aeNJGkNiZ1gJF2eQF616i2
+!s105 labA2_sv_unit
+!s108 1525370277.195000
+!s107 labA2.sv|
+!s90 -reportprogress|300|labA2.sv|
+!i10b 1
+!s85 0
+!i111 0
+vlabA3
+R4
+I940iXDAP[]Ji;lIDF_8P91
+R5
+S1
+R6
+w1525371020
+8labA3.sv
+FlabA3.sv
+L0 3
+R7
+r1
+31
+R8
+nlab@a3
+!s105 labA3_sv_unit
+!s90 -reportprogress|300|labA3.sv|
+!s110 1525371024
+!i10b 1
+!s100 @R3VGHebll<LSCHgZc;Ya3
+!s85 0
+!s108 1525371024.470000
+!s107 labA3.sv|
 !i111 0

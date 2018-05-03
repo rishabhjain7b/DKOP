@@ -1,7 +1,7 @@
 // Code for LabA- Associative Array
 
 module labA3;
-  int assoc[*], idx=1,i;
+  longint assoc[*], idx=1,i;
   initial
   begin
     repeat(64)
