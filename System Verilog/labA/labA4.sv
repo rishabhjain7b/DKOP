@@ -16,5 +16,11 @@ module labA4;
     $display(d.find_index(x) with (x>3));
     $display(d.find_index with (item>99));
     $display(d.find_first_index with (item==8));
+    $display(d.find_last with (item==4));
+    $display(d.find_last_index with (item==4));
+    $display(d.sum with (item>7));
+    $display(d.sum with ((item>7)*item));
+    $display(d.sum with (item<8));
+    $display(d.sum with ((item<8)?item:0));
   end
 endmodule
