@@ -58,6 +58,29 @@ Z7 o-sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !i10b 1
 !s85 0
 !i111 0
+vtestarray
+Z8 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1525337688
+!i10b 1
+!s100 `>o6KXHoi7VV4J5?n@Wkn3
+If=hcSG7FJ>hQcULMCER4j2
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+!s105 testarray_sv_unit
+S1
+R5
+w1525337684
+8testarray.sv
+Ftestarray.sv
+L0 3
+Z10 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1525337687.000000
+!s107 testarray.sv|
+!s90 -reportprogress|300|testarray.sv|
+!i113 1
+Z11 tCvgOpt 0
 vtestclass
 R3
 DXx4 work 17 testclass_sv_unit 0 22 ?GECD9`]>hh07KSPn2AzE3
@@ -67,15 +90,15 @@ r1
 I70DHBIJSmRcP8P>V2XD0;2
 S1
 R5
-Z8 w1525032691
-Z9 8testclass.sv
-Z10 Ftestclass.sv
+Z12 w1525032691
+Z13 8testclass.sv
+Z14 Ftestclass.sv
 L0 16
 R6
-Z11 !s108 1525032693.854000
-Z12 !s107 testclass.sv|
-Z13 !s90 -reportprogress|300|testclass.sv|
-Z14 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z15 !s108 1525032693.854000
+Z16 !s107 testclass.sv|
+Z17 !s90 -reportprogress|300|testclass.sv|
+Z18 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !s105 testclass_sv_unit
 !s100 46O^6zZF5Fg[[?^V4F4ke1
 !s85 0
@@ -89,27 +112,27 @@ r1
 I?GECD9`]>hh07KSPn2AzE3
 S1
 R5
-R8
-R9
-R10
-L0 3
-R6
-R11
 R12
 R13
 R14
+L0 3
+R6
+R15
+R16
+R17
+R18
 !s100 ?V7ble]OB@9T>kc=;mO5Z0
 !s85 0
 !i10b 1
 !i103 1
 !i111 0
 vtestlogic
-Z15 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R8
 !s110 1525332463
 !i10b 1
 !s100 ZhbL]UO>E=AA]XVazRQ^E2
 ILO_;GcJmdH[OCkNnNb;bY2
-Z16 VDg1SIo80bB@j0V0VzS_@n1
+R9
 !s105 testlogic_sv_unit
 S1
 R5
@@ -117,7 +140,7 @@ w1525332461
 8testlogic.sv
 Ftestlogic.sv
 L0 3
-Z17 OV;L;10.5b;63
+R10
 r1
 !s85 0
 31
@@ -125,30 +148,53 @@ r1
 !s107 testlogic.sv|
 !s90 -reportprogress|300|testlogic.sv|
 !i113 1
-Z18 tCvgOpt 0
-vtestunknown
-R15
-!s110 1525332969
+R11
+vtestsize
+R8
+!s110 1525333902
 !i10b 1
-!s100 k`hBkiiTHm3?G>KI3=8HD0
-Iai:4>fPWSQZRI`[[X:5Ln2
-R16
-!s105 testunknown_sv_unit
+!s100 kzWo6c:8[d_W;]nSZoN:P1
+IZe;LFX;VZ;_Wd4NX8?JNf3
+R9
+!s105 testsize_sv_unit
 S1
 R5
-w1525332966
-8testunknown.sv
-Ftestunknown.sv
+w1525333897
+8testsize.sv
+Ftestsize.sv
 L0 3
-R17
+R10
 r1
 !s85 0
 31
-!s108 1525332969.000000
+!s108 1525333902.000000
+!s107 testsize.sv|
+!s90 -reportprogress|300|testsize.sv|
+!i113 1
+R11
+vtestunknown
+R8
+!s110 1525333125
+!i10b 1
+!s100 eB3aDBBkLzzleg;im8nQl2
+I?]]:Jb@efWSiahS6?d^3M3
+R9
+!s105 testunknown_sv_unit
+S1
+R5
+w1525333121
+8testunknown.sv
+Ftestunknown.sv
+L0 3
+R10
+r1
+!s85 0
+31
+!s108 1525333124.000000
 !s107 testunknown.sv|
 !s90 -reportprogress|300|testunknown.sv|
 !i113 1
-R18
+R11
 vtestvar
 R3
 IIgHbQ_GOPAbZgIc1?5F=D0
