@@ -16,5 +16,3 @@ module labA4;
     $display(d.find_index(x) with (x>3));
     $display(d.find_index with (item>99));
     $display(d.find_first_index with (item==8));
-  end
-endmodule
