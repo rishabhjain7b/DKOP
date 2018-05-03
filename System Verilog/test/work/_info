@@ -104,12 +104,12 @@ R14
 !i103 1
 !i111 0
 vtestlogic
-DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z15 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
 !s110 1525332463
 !i10b 1
 !s100 ZhbL]UO>E=AA]XVazRQ^E2
 ILO_;GcJmdH[OCkNnNb;bY2
-VDg1SIo80bB@j0V0VzS_@n1
+Z16 VDg1SIo80bB@j0V0VzS_@n1
 !s105 testlogic_sv_unit
 S1
 R5
@@ -117,7 +117,7 @@ w1525332461
 8testlogic.sv
 Ftestlogic.sv
 L0 3
-OV;L;10.5b;63
+Z17 OV;L;10.5b;63
 r1
 !s85 0
 31
@@ -125,7 +125,30 @@ r1
 !s107 testlogic.sv|
 !s90 -reportprogress|300|testlogic.sv|
 !i113 1
-tCvgOpt 0
+Z18 tCvgOpt 0
+vtestunknown
+R15
+!s110 1525332969
+!i10b 1
+!s100 k`hBkiiTHm3?G>KI3=8HD0
+Iai:4>fPWSQZRI`[[X:5Ln2
+R16
+!s105 testunknown_sv_unit
+S1
+R5
+w1525332966
+8testunknown.sv
+Ftestunknown.sv
+L0 3
+R17
+r1
+!s85 0
+31
+!s108 1525332969.000000
+!s107 testunknown.sv|
+!s90 -reportprogress|300|testunknown.sv|
+!i113 1
+R18
 vtestvar
 R3
 IIgHbQ_GOPAbZgIc1?5F=D0
