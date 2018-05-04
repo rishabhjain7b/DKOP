@@ -9,22 +9,22 @@ Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
 !i10e 25
 !i10f 100
 T_opt
-!s110 1525424425
 V8ilb0oAkP2dn5G9KnYnzm3
 04 11 4 work testcasting fast 0
 =5-1458d0113dbf-5aec2128-2ce-3288
 Z1 o-quiet -auto_acc_if_foreign -work work
 n@_opt
 Z2 OL;O;10.2c;57
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
+!s110 1525424425
 T_opt1
-V]?gj=B[SSk7?cMZL7:1TK0
-04 6 4 work testeq fast 0
-=5-1458d0113dbf-5aec166c-3ca-1e8c
+!s110 1525425928
+VC6Mj4QnccMg]_21N1cQ8F2
+04 7 4 work testfun fast 0
+=2-1458d0113dbf-5aec2708-119-2368
 R1
 n@_opt1
 R2
-Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
-!s110 1525421677
 T_opt2
 V=Jjb4:Io;>7<b1DS>Y=d]2
 04 10 4 work testinside fast 0
@@ -120,11 +120,11 @@ Z13 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !s105 testcasting_sv_unit
 !s90 -reportprogress|300|testcasting.sv|
 !s110 1525424422
-!i10b 1
 !s100 nD7ETimN_PzYo`B4AmeQ?1
-!s85 0
 !s108 1525424421.858000
 !s107 testcasting.sv|
+!i10b 1
+!s85 0
 !i111 0
 vtestclass
 R4
@@ -193,6 +193,29 @@ R13
 !s107 testeq.sv|
 !i10b 1
 !s85 0
+!i111 0
+vtestfun
+R4
+I9Ij<A6SoWJAC7OQVWz6QM1
+R5
+S1
+R6
+w1525425919
+8testfun.sv
+Ftestfun.sv
+L0 3
+R7
+r1
+31
+R13
+!s105 testfun_sv_unit
+!s90 -reportprogress|300|testfun.sv|
+!s110 1525425923
+!i10b 1
+!s100 Hf1MkIW?6g=IN4XjzzGDD3
+!s85 0
+!s108 1525425923.140000
+!s107 testfun.sv|
 !i111 0
 vtestinside
 R4
