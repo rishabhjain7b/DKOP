@@ -3,12 +3,10 @@
 module testref;
   int a=8, b=9;
   
-  function automatic void fun( int x, y);
-    /*x=x^y;
+  function automatic void fun(const ref int x, y);
+    x=x^y;
     y=x^y;
-    x=x^y;*/
-    x<=y;
-    y<=x;
+    x=x^y;
   endfunction
   
   initial
