@@ -18,22 +18,22 @@ Z2 OL;O;10.2c;57
 Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
 !s110 1525420934
 T_opt1
-!s110 1525421677
 V]?gj=B[SSk7?cMZL7:1TK0
 04 6 4 work testeq fast 0
 =5-1458d0113dbf-5aec166c-3ca-1e8c
 R1
 n@_opt1
 R2
+R3
+!s110 1525421677
 T_opt2
-VLD[2Ub:iJihzVUaTGjF:;0
-04 7 4 work testvar fast 0
-=8-1458d0113dbf-5ae9f37e-1ed-3394
+!s110 1525422243
+V=Jjb4:Io;>7<b1DS>Y=d]2
+04 10 4 work testinside fast 0
+=1-1458d0113dbf-5aec18a3-19d-46b0
 R1
 n@_opt2
 R2
-R3
-!s110 1525281662
 vtest
 Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
 IaTGTe]DQJ19=o4:4=j>Rh0
@@ -165,11 +165,34 @@ R19
 !s105 testeq_sv_unit
 !s90 -reportprogress|300|testeq.sv|
 !s110 1525421674
-!i10b 1
 !s100 czSVhV7ooomCm1=4H:>Fk0
-!s85 0
 !s108 1525421674.220000
 !s107 testeq.sv|
+!i10b 1
+!s85 0
+!i111 0
+vtestinside
+R4
+IiVnW:<dHgHIZTY=Y`blH@1
+R5
+S1
+R6
+w1525422232
+8testinside.sv
+Ftestinside.sv
+L0 3
+R7
+r1
+31
+R19
+!s105 testinside_sv_unit
+!s90 -reportprogress|300|testinside.sv|
+!s110 1525422236
+!i10b 1
+!s100 =de7[UhkL8dbNKQTG``5i3
+!s85 0
+!s108 1525422236.726000
+!s107 testinside.sv|
 !i111 0
 vtestlogic
 R9
