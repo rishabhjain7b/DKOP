@@ -9,350 +9,349 @@ Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
 !i10e 25
 !i10f 100
 T_opt
-Z1 V8ilb0oAkP2dn5G9KnYnzm3
-Z2 04 11 4 work testcasting fast 0
-Z3 =5-1458d0113dbf-5aec2128-2ce-3288
-Z4 o-quiet -auto_acc_if_foreign -work work
-Z5 n@_opt
-Z6 OL;O;10.2c;57
-Z7 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
-Z8 !s110 1525424425
+V2b3H0]OQ;=iGC<k3ROf?J3
+04 9 4 work testbytes fast 0
+=3-1458d0113dbf-5aeda76e-18b-38a8
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.2c;57
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
+!s110 1525524334
 T_opt1
-Z9 VC6Mj4QnccMg]_21N1cQ8F2
-Z10 04 7 4 work testfun fast 0
-Z11 =2-1458d0113dbf-5aec2708-119-2368
-R4
-Z12 n@_opt1
-R6
-R7
-Z13 !s110 1525425928
+!s110 1525611446
+VRHOLzB`4G[OCab9^5HSVK2
+04 9 4 work testlogic fast 0
+=4-1458d0113dbf-5aeefbb6-189-2a48
+R1
+n@_opt1
+R2
 T_opt2
-Z14 Vm9bADLiNKi0G21`T>QWkR0
-Z15 04 7 4 work testref fast 0
-Z16 =1-1458d0113dbf-5aec2c53-65-3590
-R4
-Z17 n@_opt2
-R6
-R7
-Z18 !s110 1525427283
+Vm9bADLiNKi0G21`T>QWkR0
+04 7 4 work testref fast 0
+=1-1458d0113dbf-5aec2c53-65-3590
+R1
+n@_opt2
+R2
+R3
+!s110 1525427283
 vtest
-Z19 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-Z20 IaTGTe]DQJ19=o4:4=j>Rh0
-Z21 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+IaTGTe]DQJ19=o4:4=j>Rh0
+Z5 V`JN@9S9cnhjKRR_L]QIcM3
 S1
-Z22 dR:/intelFPGA/16.1/Verilog/System Verilog/test
-Z23 w1525026937
-Z24 8test.sv
-Z25 Ftest.sv
+Z6 dR:/intelFPGA/16.1/Verilog/System Verilog/test
+w1525026937
+8test.sv
+Ftest.sv
 L0 3
-Z26 OL;L;10.2c;57
+Z7 OL;L;10.2c;57
 r1
 31
-Z27 o-sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-Z28 !s100 ]XO=jB>7?zIzlDUV9m5na1
-Z29 !s105 test_sv_unit
-Z30 !s110 1525280370
-Z31 !s108 1525280369.990000
-Z32 !s107 test.sv|
-Z33 !s90 -reportprogress|300|-sv|test.sv|
+Z8 o-sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 ]XO=jB>7?zIzlDUV9m5na1
+!s105 test_sv_unit
+!s110 1525280370
+!s108 1525280369.990000
+!s107 test.sv|
+!s90 -reportprogress|300|-sv|test.sv|
 !i10b 1
 !s85 0
 !i111 0
 vtestarray
-Z34 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
-Z35 If=hcSG7FJ>hQcULMCER4j2
-Z36 VDg1SIo80bB@j0V0VzS_@n1
+Z9 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+If=hcSG7FJ>hQcULMCER4j2
+Z10 VDg1SIo80bB@j0V0VzS_@n1
 S1
-R22
-Z37 w1525337684
-Z38 8testarray.sv
-Z39 Ftestarray.sv
+R6
+w1525337684
+8testarray.sv
+Ftestarray.sv
 L0 3
-Z40 OV;L;10.5b;63
+Z11 OV;L;10.5b;63
 r1
 31
-Z41 tCvgOpt 0
-Z42 !s110 1525337688
-Z43 !s100 `>o6KXHoi7VV4J5?n@Wkn3
-Z44 !s105 testarray_sv_unit
-Z45 !s108 1525337687.000000
-Z46 !s107 testarray.sv|
-Z47 !s90 -reportprogress|300|testarray.sv|
+Z12 tCvgOpt 0
+!s110 1525337688
+!s100 `>o6KXHoi7VV4J5?n@Wkn3
+!s105 testarray_sv_unit
+!s108 1525337687.000000
+!s107 testarray.sv|
+!s90 -reportprogress|300|testarray.sv|
 !i10b 1
 !s85 0
 !i113 1
 vtestbytes
-R19
-Z48 IXS=_URVP0^hBn:0blIkkG0
-R21
+R4
+IWG<6=oQMWM5EWYP@aGS2D2
+R5
 S1
-R22
-Z49 w1525420921
-Z50 8testbytes.sv
-Z51 Ftestbytes.sv
+R6
+w1525524293
+8R:/intelFPGA/16.1/Verilog/System Verilog/test/testbytes.sv
+FR:/intelFPGA/16.1/Verilog/System Verilog/test/testbytes.sv
 L0 3
-R26
+R7
 r1
 31
-R27
-Z52 !s105 testbytes_sv_unit
-Z53 !s90 -reportprogress|300|-sv|testbytes.sv|
-Z54 !s110 1525420930
-Z55 !s100 Y2i15Wl@Vl<gd`L0z@0^n1
-Z56 !s108 1525420930.181000
-Z57 !s107 testbytes.sv|
+o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 K2C?]7FVbj_TC=RzlLPmJ3
+!s105 testbytes_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|R:/intelFPGA/16.1/Verilog/System Verilog/test/testbytes.sv|
+!s110 1525611124
+!s108 1525611123.897000
+!s107 R:/intelFPGA/16.1/Verilog/System Verilog/test/testbytes.sv|
 !i10b 1
 !s85 0
 !i111 0
 vtestcasting
-R19
-Z58 IfY3:EJ;O0@MKX0fE<dOXT3
-R21
+R4
+IfY3:EJ;O0@MKX0fE<dOXT3
+R5
 S1
-R22
-Z59 w1525424419
-Z60 8testcasting.sv
-Z61 Ftestcasting.sv
+R6
+w1525424419
+8testcasting.sv
+Ftestcasting.sv
 L0 3
-R26
+R7
 r1
 31
-Z62 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-Z63 !s105 testcasting_sv_unit
-Z64 !s90 -reportprogress|300|testcasting.sv|
-Z65 !s110 1525424422
-Z66 !s100 nD7ETimN_PzYo`B4AmeQ?1
-Z67 !s108 1525424421.858000
-Z68 !s107 testcasting.sv|
+Z13 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s105 testcasting_sv_unit
+!s90 -reportprogress|300|testcasting.sv|
+!s110 1525424422
+!s100 nD7ETimN_PzYo`B4AmeQ?1
+!s108 1525424421.858000
+!s107 testcasting.sv|
 !i10b 1
 !s85 0
 !i111 0
 vtestclass
-R19
-Z69 DXx4 work 17 testclass_sv_unit 0 22 ?GECD9`]>hh07KSPn2AzE3
-R21
+R4
+DXx4 work 17 testclass_sv_unit 0 22 ?GECD9`]>hh07KSPn2AzE3
+R5
 r1
 31
-Z70 I70DHBIJSmRcP8P>V2XD0;2
+I70DHBIJSmRcP8P>V2XD0;2
 S1
-R22
-Z71 w1525032691
-Z72 8testclass.sv
-Z73 Ftestclass.sv
+R6
+Z14 w1525032691
+Z15 8testclass.sv
+Z16 Ftestclass.sv
 L0 16
-R26
-Z74 !s108 1525032693.854000
-Z75 !s107 testclass.sv|
-Z76 !s90 -reportprogress|300|testclass.sv|
-R62
-Z77 !s105 testclass_sv_unit
-Z78 !s100 46O^6zZF5Fg[[?^V4F4ke1
+R7
+Z17 !s108 1525032693.854000
+Z18 !s107 testclass.sv|
+Z19 !s90 -reportprogress|300|testclass.sv|
+R13
+!s105 testclass_sv_unit
+!s100 46O^6zZF5Fg[[?^V4F4ke1
 !s85 0
 !i10b 1
 !i111 0
 Xtestclass_sv_unit
-R19
-Z79 V?GECD9`]>hh07KSPn2AzE3
+R4
+V?GECD9`]>hh07KSPn2AzE3
 r1
 31
-Z80 I?GECD9`]>hh07KSPn2AzE3
+I?GECD9`]>hh07KSPn2AzE3
 S1
-R22
-R71
-R72
-R73
+R6
+R14
+R15
+R16
 L0 3
-R26
-R74
-R75
-R76
-R62
-Z81 !s100 ?V7ble]OB@9T>kc=;mO5Z0
+R7
+R17
+R18
+R19
+R13
+!s100 ?V7ble]OB@9T>kc=;mO5Z0
 !s85 0
 !i10b 1
 !i103 1
 !i111 0
 vtesteq
-R19
-Z82 Ij`OMW>1aIFmBe8`]B@PAV0
-R21
+R4
+Ij`OMW>1aIFmBe8`]B@PAV0
+R5
 S1
-R22
-Z83 w1525421670
-Z84 8testeq.sv
-Z85 Ftesteq.sv
+R6
+w1525421670
+8testeq.sv
+Ftesteq.sv
 L0 3
-R26
+R7
 r1
 31
-R62
-Z86 !s105 testeq_sv_unit
-Z87 !s90 -reportprogress|300|testeq.sv|
-Z88 !s110 1525421674
-Z89 !s100 czSVhV7ooomCm1=4H:>Fk0
-Z90 !s108 1525421674.220000
-Z91 !s107 testeq.sv|
+R13
+!s105 testeq_sv_unit
+!s90 -reportprogress|300|testeq.sv|
+!s110 1525421674
+!s100 czSVhV7ooomCm1=4H:>Fk0
+!s108 1525421674.220000
+!s107 testeq.sv|
 !i10b 1
 !s85 0
 !i111 0
 vtestfun
-R19
-Z92 I9Ij<A6SoWJAC7OQVWz6QM1
-R21
+R4
+I9Ij<A6SoWJAC7OQVWz6QM1
+R5
 S1
-R22
-Z93 w1525425919
-Z94 8testfun.sv
-Z95 Ftestfun.sv
+R6
+w1525425919
+8testfun.sv
+Ftestfun.sv
 L0 3
-R26
+R7
 r1
 31
-R62
-Z96 !s100 Hf1MkIW?6g=IN4XjzzGDD3
-Z97 !s105 testfun_sv_unit
-Z98 !s90 -reportprogress|300|testfun.sv|
-Z99 !s110 1525427198
-Z100 !s108 1525427198.428000
-Z101 !s107 testfun.sv|
+R13
+!s100 Hf1MkIW?6g=IN4XjzzGDD3
+!s105 testfun_sv_unit
+!s90 -reportprogress|300|testfun.sv|
+!s110 1525427198
+!s108 1525427198.428000
+!s107 testfun.sv|
 !i10b 1
 !s85 0
 !i111 0
 vtestinside
-R19
-Z102 IiVnW:<dHgHIZTY=Y`blH@1
-R21
+R4
+IiVnW:<dHgHIZTY=Y`blH@1
+R5
 S1
-R22
-Z103 w1525422232
-Z104 8testinside.sv
-Z105 Ftestinside.sv
+R6
+w1525422232
+8testinside.sv
+Ftestinside.sv
 L0 3
-R26
+R7
 r1
 31
-R62
-Z106 !s105 testinside_sv_unit
-Z107 !s90 -reportprogress|300|testinside.sv|
-Z108 !s110 1525422236
-Z109 !s100 =de7[UhkL8dbNKQTG``5i3
-Z110 !s108 1525422236.726000
-Z111 !s107 testinside.sv|
+R13
+!s105 testinside_sv_unit
+!s90 -reportprogress|300|testinside.sv|
+!s110 1525422236
+!s100 =de7[UhkL8dbNKQTG``5i3
+!s108 1525422236.726000
+!s107 testinside.sv|
 !i10b 1
 !s85 0
 !i111 0
 vtestlogic
-R34
-Z112 ILO_;GcJmdH[OCkNnNb;bY2
-R36
+R4
+I62hFTP^eo=_GXPV2hOEzW0
+R5
 S1
-R22
-Z113 w1525332461
-Z114 8testlogic.sv
-Z115 Ftestlogic.sv
+R6
+w1525611429
+8testlogic.sv
+Ftestlogic.sv
 L0 3
-R40
+R7
 r1
 31
-R41
-Z116 !s110 1525332463
-Z117 !s100 ZhbL]UO>E=AA]XVazRQ^E2
-Z118 !s105 testlogic_sv_unit
-Z119 !s108 1525332463.000000
-Z120 !s107 testlogic.sv|
-Z121 !s90 -reportprogress|300|testlogic.sv|
+R8
+!s105 testlogic_sv_unit
+!s90 -reportprogress|300|-sv|testlogic.sv|
+!s110 1525611437
 !i10b 1
+!s100 VW0lcA^6I?V67WHfCgef;2
 !s85 0
-!i113 1
+!s108 1525611437.580000
+!s107 testlogic.sv|
+!i111 0
 vtestref
-R19
-!s110 1525427586
-!i10b 1
-Z122 !s100 O`?BQTFJ2PRW]VoHb_QIN2
-Z123 IoUkoO]TZS5mA;ZLJ[I55^3
-R21
-Z124 !s105 testref_sv_unit
+R4
+IoUkoO]TZS5mA;ZLJ[I55^3
+R5
 S1
-R22
+R6
 w1525427582
-Z125 8testref.sv
-Z126 Ftestref.sv
+8testref.sv
+Ftestref.sv
 L0 3
-R26
+R7
 r1
-!s85 0
 31
+R13
+!s100 O`?BQTFJ2PRW]VoHb_QIN2
+!s105 testref_sv_unit
+!s90 -reportprogress|300|testref.sv|
+!s110 1525427586
 !s108 1525427586.426000
 !s107 testref.sv|
-Z127 !s90 -reportprogress|300|testref.sv|
+!i10b 1
+!s85 0
 !i111 0
-R62
 vtestsize
-R34
-Z128 IZe;LFX;VZ;_Wd4NX8?JNf3
-R36
+R9
+IZe;LFX;VZ;_Wd4NX8?JNf3
+R10
 S1
-R22
-Z129 w1525333897
-Z130 8testsize.sv
-Z131 Ftestsize.sv
+R6
+w1525333897
+8testsize.sv
+Ftestsize.sv
 L0 3
-R40
+R11
 r1
 31
-R41
-Z132 !s110 1525333902
-Z133 !s100 kzWo6c:8[d_W;]nSZoN:P1
-Z134 !s105 testsize_sv_unit
-Z135 !s108 1525333902.000000
-Z136 !s107 testsize.sv|
-Z137 !s90 -reportprogress|300|testsize.sv|
+R12
+!s110 1525333902
+!s100 kzWo6c:8[d_W;]nSZoN:P1
+!s105 testsize_sv_unit
+!s108 1525333902.000000
+!s107 testsize.sv|
+!s90 -reportprogress|300|testsize.sv|
 !i10b 1
 !s85 0
 !i113 1
 vtestunknown
-R34
-Z138 I?]]:Jb@efWSiahS6?d^3M3
-R36
+R9
+I?]]:Jb@efWSiahS6?d^3M3
+R10
 S1
-R22
-Z139 w1525333121
-Z140 8testunknown.sv
-Z141 Ftestunknown.sv
+R6
+w1525333121
+8testunknown.sv
+Ftestunknown.sv
 L0 3
-R40
+R11
 r1
 31
-R41
-Z142 !s110 1525333125
-Z143 !s100 eB3aDBBkLzzleg;im8nQl2
-Z144 !s105 testunknown_sv_unit
-Z145 !s108 1525333124.000000
-Z146 !s107 testunknown.sv|
-Z147 !s90 -reportprogress|300|testunknown.sv|
+R12
+!s110 1525333125
+!s100 eB3aDBBkLzzleg;im8nQl2
+!s105 testunknown_sv_unit
+!s108 1525333124.000000
+!s107 testunknown.sv|
+!s90 -reportprogress|300|testunknown.sv|
 !i10b 1
 !s85 0
 !i113 1
 vtestvar
-R19
-Z148 IIgHbQ_GOPAbZgIc1?5F=D0
-R21
+R4
+IIgHbQ_GOPAbZgIc1?5F=D0
+R5
 S1
-R22
-Z149 w1525281656
-Z150 8testvar.sv
-Z151 Ftestvar.sv
+R6
+w1525281656
+8testvar.sv
+Ftestvar.sv
 L0 3
-R26
+R7
 r1
 31
-R27
-Z152 !s105 testvar_sv_unit
-Z153 !s90 -reportprogress|300|-sv|testvar.sv|
-Z154 !s110 1525281659
-Z155 !s100 JL^=YeR>z:7[BmgNc9Pe20
-Z156 !s108 1525281659.299000
-Z157 !s107 testvar.sv|
+R8
+!s105 testvar_sv_unit
+!s90 -reportprogress|300|-sv|testvar.sv|
+!s110 1525281659
+!s100 JL^=YeR>z:7[BmgNc9Pe20
+!s108 1525281659.299000
+!s107 testvar.sv|
 !i10b 1
 !s85 0
 !i111 0

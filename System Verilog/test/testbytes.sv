@@ -6,8 +6,10 @@ module testbytes;
   
   initial
   begin
-    a[4]=-1;
-    b[4]=-8;
+    a[7]=1;
+    b[7]=1;
+    a[0]=1;
+    b[0]=1;
     $display(a);
     $display(b);
   end
