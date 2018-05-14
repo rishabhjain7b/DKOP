@@ -7,6 +7,7 @@ module labB1_tb;
   wire logic [7:0]data;
   var logic read,write;
   var logic [4:0]addr;
+  localparam bit debug=1;
   localparam int WWIDTH=8;
   localparam int AWIDTH=5;
   
@@ -17,7 +18,8 @@ module labB1_tb;
   assign data=read?'z:data_w;
   
   task write_mem(input [AWIDTH-1:0]waddr,input [WWIDTH-1:0]wdata,input debug=0);
-    write=read=0;
+    write=0;
+    read=0;
     addr=waddr;
     data_w=wdata;
     #5ns write=1;
@@ -54,8 +56,34 @@ module labB1_tb;
     $timeformat(-9,0,"ns",6);
     
     $display("CLEAR THE MEMORY FIRST");
-    error=0;
+    errors=0;
     
     for(int i=0;i<=2**AWIDTH-1;++i)
       write_mem(i,0,0);
-          
+      
+    for(int i=0;i<=2**AWIDTH-1;++i)
+    begin
+      read_mem(i,data_read,0);
+      if(data_read!==0)
+        ++errors;
+    end
+    
+    print_status(errors);
+    $display("TEST DATA = ADDRESS");
+    errors=0;
+    
+    for(int i=0;i<=2**AWIDTH-1;++i)
+      write_mem(i,i,debug);
+      
+    for(int i=0;i<=2**AWIDTH-1;++i)
+    begin
+      read_mem(i,data_read,debug);
+      if(data_read!==i)
+        ++errors;
+    end
+    
+    print_status(errors);
+    $finish;
+  end
+endmodule
+

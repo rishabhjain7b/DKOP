@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dR:/intelFPGA/16.1/Verilog/System Verilog/labB
+vfa
+!s110 1526150678
+!i10b 1
+!s100 XL:@DT]kSfkHBd3A`clDV2
+IindnFJ3B?Z`Z5kfLO0`z51
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dR:/intelFPGA/16.1/Verilog/vedic_mul
+w1526150676
+8fa.v
+Ffa.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1526150678.000000
+!s107 fa.v|
+!s90 -reportprogress|300|fa.v|
+!i113 1
+Z3 tCvgOpt 0
+vha
+!s110 1526150649
+!i10b 1
+!s100 [cIzlg4<W]VjHQZNL]dPz3
+I1;RJ`c5_EcaX7[`c=IWbH1
+R0
+R1
+w1526150644
+8ha.v
+Fha.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1526150648.000000
+!s107 ha.v|
+!s90 -reportprogress|300|ha.v|
+!i113 1
+R3
+vvedic_mul
+!s110 1526150912
+!i10b 1
+!s100 gR82Z<YLHoi:aNajD_e>13
+IlMH:VU1<IacRA?Z`zUhTS0
+R0
+R1
+w1526150907
+8vedic_mul.v
+Fvedic_mul.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1526150912.000000
+!s107 vedic_mul.v|
+!s90 -reportprogress|300|vedic_mul.v|
+!i113 1
+R3
