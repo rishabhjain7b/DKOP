@@ -1,1 +1,10 @@
+{R:/intelFPGA/16.1/Verilog/System Verilog/labB/labB1.sv} {0 {vlog -work work -vopt -sv {R:/intelFPGA/16.1/Verilog/System Verilog/labB/labB1.sv}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module labB1
+** Error: R:/intelFPGA/16.1/Verilog/System Verilog/labB/labB1.sv(9): (vlog-2163) Macro `timeunit is undefined.
 
+** Error: R:/intelFPGA/16.1/Verilog/System Verilog/labB/labB1.sv(9): near "1ns": syntax error, unexpected TIME_LITERAL
+** Error: R:/intelFPGA/16.1/Verilog/System Verilog/labB/labB1.sv(10): (vlog-2163) Macro `timeprecision is undefined.
+
+
+} {4.0 5.0 6.0 8.0} {}}

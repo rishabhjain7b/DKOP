@@ -86,4 +86,3 @@ module labB1_tb;
     $finish;
   end
 endmodule
-
