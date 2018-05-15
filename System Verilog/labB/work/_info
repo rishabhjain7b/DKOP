@@ -9,59 +9,136 @@ Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
 !i10e 25
 !i10f 100
 T_opt
-Z1 VoMUK;>7NkX_J3`mz_SfK[1
-Z2 04 8 4 work labB1_tb fast 0
-Z3 =1-1458d0113dbf-5af9704a-37f-5340
-Z4 o-quiet -auto_acc_if_foreign -work work
-Z5 n@_opt
-Z6 OL;O;10.2c;57
-Z7 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
-Z8 !s110 1526296653
-vlabB1
-Z9 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-Z10 !s110 1526376340
-!i10b 1
-Z11 !s100 fUAZ@:OQHK4M2T2<9Ybl50
-Z12 I5AG0E5=KA9nezX=C<F_5_0
-Z13 V`JN@9S9cnhjKRR_L]QIcM3
-Z14 !s105 labB1_sv_unit
+VoMUK;>7NkX_J3`mz_SfK[1
+04 8 4 work labB1_tb fast 0
+=1-1458d0113dbf-5af9704a-37f-5340
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.2c;57
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
+!s110 1526296653
+T_opt1
+!s110 1526378089
+V<MCAYJ6U=9^6<P4A]V:W[3
+04 15 4 work ha_interface_tb fast 0
+=1-1458d0113dbf-5afaae68-190-5478
+R1
+n@_opt1
+R2
+Yha_if
+Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z5 !s110 1526378072
+!s100 @TBjKEo5_6bGSa3IMHk:e2
+I<2Ya@H80=FZWl0El]L;_H0
+Z6 V`JN@9S9cnhjKRR_L]QIcM3
+Z7 !s105 ha_interface_sv_unit
 S1
-Z15 dR:/intelFPGA/16.1/Verilog/System Verilog/labB
-Z16 w1526036074
-Z17 8labB1.sv
-Z18 FlabB1.sv
+Z8 dR:/intelFPGA/16.1/Verilog/System Verilog/labB
+Z9 w1526378042
+Z10 8ha_interface.sv
+Z11 Fha_interface.sv
 L0 3
-Z19 OL;L;10.2c;57
+Z12 OL;L;10.2c;57
 r1
-!s85 0
 31
-Z20 !s108 1526376340.353000
-Z21 !s107 labB1_tb.sv|labB1.sv|
-Z22 !s90 -reportprogress|300|labB1.sv|labB1_tb.sv|
+Z13 !s108 1526378072.662000
+Z14 !s107 ha_interface.sv|
+Z15 !s90 -reportprogress|300|ha_interface.sv|
+Z16 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
 !i111 0
-Z23 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-Z24 nlab@b1
-vlabB1_tb
+vha_interface
+R4
+R5
+!s100 hMS`l=;S1C[::@;9=hI`H2
+IPY=YC4W`1`Ahe[4;9hA3i0
+R6
+R7
+S1
+R8
 R9
 R10
-!i10b 1
-Z25 !s100 zGjj^mVK_;8Jf;iRoN=V42
-Z26 I6F5E8_hO`mf^f=czJ:2P>3
-R13
-Z27 !s105 labB1_tb_sv_unit
-S1
-R15
-Z28 w1526296623
-Z29 8labB1_tb.sv
-Z30 FlabB1_tb.sv
-L0 3
-R19
+R11
+L0 7
+R12
 r1
-!s85 0
 31
-R20
-R21
-R22
+R13
+R14
+R15
+R16
+!i10b 1
+!s85 0
 !i111 0
-R23
-Z31 nlab@b1_tb
+vha_interface_tb
+R4
+R5
+!s100 D:QB_?HI>?VaeL8zkKCNN3
+IF6BBZWSb<Xn73KG?5D1TB0
+R6
+R7
+S1
+R8
+R9
+R10
+R11
+L0 12
+R12
+r1
+31
+R13
+R14
+R15
+R16
+!i10b 1
+!s85 0
+!i111 0
+vlabB1
+R4
+Z17 !s110 1526376340
+!s100 fUAZ@:OQHK4M2T2<9Ybl50
+I5AG0E5=KA9nezX=C<F_5_0
+R6
+!s105 labB1_sv_unit
+S1
+R8
+w1526036074
+8labB1.sv
+FlabB1.sv
+L0 3
+R12
+r1
+31
+Z18 !s108 1526376340.353000
+Z19 !s107 labB1_tb.sv|labB1.sv|
+Z20 !s90 -reportprogress|300|labB1.sv|labB1_tb.sv|
+R16
+nlab@b1
+!i10b 1
+!s85 0
+!i111 0
+vlabB1_tb
+R4
+R17
+!s100 zGjj^mVK_;8Jf;iRoN=V42
+I6F5E8_hO`mf^f=czJ:2P>3
+R6
+!s105 labB1_tb_sv_unit
+S1
+R8
+w1526296623
+8labB1_tb.sv
+FlabB1_tb.sv
+L0 3
+R12
+r1
+31
+R18
+R19
+R20
+R16
+nlab@b1_tb
+!i10b 1
+!s85 0
+!i111 0
