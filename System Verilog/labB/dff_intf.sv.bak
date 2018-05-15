@@ -1,0 +1,6 @@
+// Code interface module for d flip flop
+
+interface dff_intf(input bit clk);
+logic d,q;
+bit reset_n;
+endinterface
