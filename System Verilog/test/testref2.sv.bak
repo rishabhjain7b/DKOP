@@ -1,0 +1,18 @@
+// Code for testing pass by reference
+
+module testref2;
+  function swap(ref int a,b);
+    a=a^b;
+    b=a^b;
+    a=a^b;
+  endfunction
+  int x=4,y=7;
+  
+  initial
+  begin
+    $display("x=%0d ::: y=%0d",x,y);
+    swap(x,y);
+    $display("x=%0d ::: y=%0d",x,y);
+  end
+endmodule
+    

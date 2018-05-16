@@ -11,7 +11,7 @@ module labB1_tb;
   localparam int WWIDTH=8;
   localparam int AWIDTH=5;
   
-  labB1 #(WWIDTH,AWIDTH) memory (.*);
+  labB1 #(WWIDTH,AWIDTH) mem (.*);
   
   logic [WWIDTH-1:0]data_w;
   
@@ -86,4 +86,3 @@ module labB1_tb;
     $finish;
   end
 endmodule
-

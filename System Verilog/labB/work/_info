@@ -9,14 +9,13 @@ Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
 !i10e 25
 !i10f 100
 T_opt
-VoMUK;>7NkX_J3`mz_SfK[1
-04 8 4 work labB1_tb fast 0
-=1-1458d0113dbf-5af9704a-37f-5340
+!s110 1526451863
+V2RelAkGV9m]z:elj5`^@N0
+04 7 4 work dff_top fast 0
+=1-1458d0113dbf-5afbce97-4a-2fd8
 Z1 o-quiet -auto_acc_if_foreign -work work
 n@_opt
 Z2 OL;O;10.2c;57
-Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
-!s110 1526296653
 T_opt1
 V<MCAYJ6U=9^6<P4A]V:W[3
 04 15 4 work ha_interface_tb fast 0
@@ -24,222 +23,223 @@ V<MCAYJ6U=9^6<P4A]V:W[3
 R1
 n@_opt1
 R2
-R3
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/arrays
 !s110 1526378089
 T_opt2
-!s110 1526404784
-Vhj5aF_71f5cAUBFJ^<N6`3
-04 7 4 work dff_top fast 0
-=1-1458d0113dbf-5afb16ad-33f-2f6c
+VD15k4mDNc=aOGHUC5l`0`1
+04 16 4 work dff_interface_tb fast 0
+=1-1458d0113dbf-5afbcc7f-276-34b0
 R1
 n@_opt2
 R2
+R3
+!s110 1526451328
 vdff_interface
 Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z5 !s110 1526451850
 I:ijKZPGG6A5PZ<T59EU_n3
-Z5 V`JN@9S9cnhjKRR_L]QIcM3
+Z6 V`JN@9S9cnhjKRR_L]QIcM3
 S1
-Z6 dR:/intelFPGA/16.1/Verilog/System Verilog/labB
+Z7 dR:/intelFPGA/16.1/Verilog/System Verilog/labB
 w1526400820
 8dff_interface.sv
 Fdff_interface.sv
 L0 5
-Z7 OL;L;10.2c;57
+Z8 OL;L;10.2c;57
 r1
 31
-Z8 !s108 1526404733.571000
-Z9 !s107 labB1_tb.sv|labB1.sv|ha_interface.sv|dff_top.sv|dff_intf.sv|dff_interface_tb.sv|dff_interface.sv|
-Z10 !s90 -reportprogress|300|dff_interface.sv|dff_interface_tb.sv|dff_intf.sv|dff_top.sv|ha_interface.sv|labB1.sv|labB1_tb.sv|
-Z11 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!s110 1526404734
-!i10b 1
+Z9 !s108 1526451850.777000
+Z10 !s107 labB1_tb.sv|labB1.sv|ha_interface.sv|dff_top.sv|dff_intf.sv|dff_interface_tb.sv|dff_interface.sv|
+Z11 !s90 -reportprogress|300|dff_interface.sv|dff_interface_tb.sv|dff_intf.sv|dff_top.sv|ha_interface.sv|labB1.sv|labB1_tb.sv|
+Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !s100 8ZAeMUO?mnKHm7_aBNZ]n0
 !s105 dff_interface_sv_unit
+!i10b 1
 !s85 0
 !i111 0
 vdff_interface_tb
 R4
-Z12 !s110 1526404735
-If4Oo1E0]fo@^TLMlDz2:o0
 R5
-S1
+IbbU4OaQeZz0cUW3DZC6JU0
 R6
-w1526400830
+S1
+R7
+w1526451845
 8dff_interface_tb.sv
 Fdff_interface_tb.sv
 L0 5
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
-!i10b 1
-!s100 XI4eZoLkT<lgXIP07A5=K2
+R12
 !s105 dff_interface_tb_sv_unit
+!i10b 1
+!s100 XUAE[4=0hHTjBG3aM0Ge`2
 !s85 0
 !i111 0
 Ydff_intf
 R4
-R12
-Id:Gk<]@CCe?18l@Knk4NS3
 R5
-S1
+Id:Gk<]@CCe?18l@Knk4NS3
 R6
+S1
+R7
 w1526399894
 8dff_intf.sv
 Fdff_intf.sv
 L0 3
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
-!i10b 1
+R12
 !s100 IS9HCiYh7<`GIaf:SD1IE3
 !s105 dff_intf_sv_unit
+!i10b 1
 !s85 0
 !i111 0
 vdff_top
 R4
-R12
-IV9DF=jUVz4=FVT_NU[G1Z0
 R5
-S1
+IV9DF=jUVz4=FVT_NU[G1Z0
 R6
+S1
+R7
 w1526401133
 8dff_top.sv
 Fdff_top.sv
 L0 3
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
-!i10b 1
+R12
 !s100 jGWFXkj^4;]5SUdjKS4;V2
 !s105 dff_top_sv_unit
+!i10b 1
 !s85 0
 !i111 0
 Yha_if
 R4
-R12
-!s100 @TBjKEo5_6bGSa3IMHk:e2
-I<2Ya@H80=FZWl0El]L;_H0
 R5
+I<2Ya@H80=FZWl0El]L;_H0
+R6
 Z13 !s105 ha_interface_sv_unit
 S1
-R6
+R7
 Z14 w1526378042
 Z15 8ha_interface.sv
 Z16 Fha_interface.sv
 L0 3
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
+R12
+!s100 @TBjKEo5_6bGSa3IMHk:e2
 !i10b 1
 !s85 0
 !i111 0
 vha_interface
 R4
-R12
-!s100 hMS`l=;S1C[::@;9=hI`H2
-IPY=YC4W`1`Ahe[4;9hA3i0
 R5
+IPY=YC4W`1`Ahe[4;9hA3i0
+R6
 R13
 S1
-R6
+R7
 R14
 R15
 R16
 L0 7
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
+R12
+!s100 hMS`l=;S1C[::@;9=hI`H2
 !i10b 1
 !s85 0
 !i111 0
 vha_interface_tb
 R4
-R12
-!s100 D:QB_?HI>?VaeL8zkKCNN3
-IF6BBZWSb<Xn73KG?5D1TB0
 R5
+IF6BBZWSb<Xn73KG?5D1TB0
+R6
 R13
 S1
-R6
+R7
 R14
 R15
 R16
 L0 12
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
+R12
+!s100 D:QB_?HI>?VaeL8zkKCNN3
 !i10b 1
 !s85 0
 !i111 0
 vlabB1
 R4
-R12
-!s100 fUAZ@:OQHK4M2T2<9Ybl50
+Z17 !s110 1526451851
 I5AG0E5=KA9nezX=C<F_5_0
-R5
-!s105 labB1_sv_unit
-S1
 R6
+S1
+R7
 w1526036074
 8labB1.sv
 FlabB1.sv
 L0 3
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
+R12
 nlab@b1
+!s100 fUAZ@:OQHK4M2T2<9Ybl50
+!s105 labB1_sv_unit
 !i10b 1
 !s85 0
 !i111 0
 vlabB1_tb
 R4
-R12
-!s100 zGjj^mVK_;8Jf;iRoN=V42
-I6F5E8_hO`mf^f=czJ:2P>3
-R5
-!s105 labB1_tb_sv_unit
-S1
+R17
+Ik]U<aKiK<Jk;@LKFF52hG2
 R6
-w1526376843
+S1
+R7
+w1526449696
 8labB1_tb.sv
 FlabB1_tb.sv
 L0 3
-R7
+R8
 r1
 31
-R8
 R9
 R10
 R11
+R12
 nlab@b1_tb
+!s100 S[GFI_95IP?F[NBm>9k[f2
+!s105 labB1_tb_sv_unit
 !i10b 1
 !s85 0
 !i111 0

@@ -9,31 +9,31 @@ Z0 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
 !i10e 25
 !i10f 100
 T_opt
-V2b3H0]OQ;=iGC<k3ROf?J3
-04 9 4 work testbytes fast 0
-=3-1458d0113dbf-5aeda76e-18b-38a8
+!s110 1526461374
+VCCeC6nHF_]1c]]GHg8Yk13
+04 8 4 work testref2 fast 0
+=1-1458d0113dbf-5afbf3bd-27c-405c
 Z1 o-quiet -auto_acc_if_foreign -work work
 n@_opt
 Z2 OL;O;10.2c;57
-Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
-!s110 1525524334
 T_opt1
-!s110 1525611446
 VRHOLzB`4G[OCab9^5HSVK2
 04 9 4 work testlogic fast 0
 =4-1458d0113dbf-5aeefbb6-189-2a48
 R1
 n@_opt1
 R2
+Z3 dR:/intelFPGA/16.1/Verilog/System Verilog/signs
+!s110 1525611446
 T_opt2
-Vm9bADLiNKi0G21`T>QWkR0
-04 7 4 work testref fast 0
-=1-1458d0113dbf-5aec2c53-65-3590
+VESiE_C]o1lVoKKLn<El@[2
+04 7 4 work testfun fast 0
+=1-1458d0113dbf-5afbd45f-101-860
 R1
 n@_opt2
 R2
 R3
-!s110 1525427283
+!s110 1526453343
 vtest
 Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
 IaTGTe]DQJ19=o4:4=j>Rh0
@@ -196,11 +196,11 @@ R13
 !i111 0
 vtestfun
 R4
-I9Ij<A6SoWJAC7OQVWz6QM1
+I_=mP9[iHk:6ZSf73APYUo3
 R5
 S1
 R6
-w1525425919
+w1526453331
 8testfun.sv
 Ftestfun.sv
 L0 3
@@ -208,11 +208,11 @@ R7
 r1
 31
 R13
-!s100 Hf1MkIW?6g=IN4XjzzGDD3
 !s105 testfun_sv_unit
 !s90 -reportprogress|300|testfun.sv|
-!s110 1525427198
-!s108 1525427198.428000
+!s110 1526453337
+!s100 W[Q71[Y6<F_8noR]`??7h1
+!s108 1526453337.075000
 !s107 testfun.sv|
 !i10b 1
 !s85 0
@@ -257,11 +257,11 @@ R8
 !s105 testlogic_sv_unit
 !s90 -reportprogress|300|-sv|testlogic.sv|
 !s110 1525611437
-!i10b 1
 !s100 VW0lcA^6I?V67WHfCgef;2
-!s85 0
 !s108 1525611437.580000
 !s107 testlogic.sv|
+!i10b 1
+!s85 0
 !i111 0
 vtestref
 R4
@@ -285,6 +285,29 @@ R13
 !s107 testref.sv|
 !i10b 1
 !s85 0
+!i111 0
+vtestref2
+R4
+IA:d:G3UHOJlRMk6;_m^eA2
+R5
+S1
+R6
+w1526461345
+8testref2.sv
+Ftestref2.sv
+L0 3
+R7
+r1
+31
+R13
+!s110 1526461350
+!i10b 1
+!s100 C^lQKXlBjn_ofXbI<X5Q=0
+!s105 testref2_sv_unit
+!s85 0
+!s108 1526461350.370000
+!s107 testref2.sv|
+!s90 -reportprogress|300|testref2.sv|
 !i111 0
 vtestsize
 R9

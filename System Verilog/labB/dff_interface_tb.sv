@@ -7,10 +7,12 @@ module dff_interface_tb(dff_intf.TB i);
   begin
     i.rst_n=1'b0;
     #10 i.rst_n=1'b1;
-    #5 i.d=1'b1;
-    #5 i.d=1'b0;
     #5 i.d=1'b0;
     #5 i.d=1'b1;
+    #5 i.d=1'b0;
+    #5 i.d=1'b1;
+    #5 i.d=1'b1;
+    #5 i.d=1'b0;
   end
   
   initial
